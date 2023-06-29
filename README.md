@@ -9,7 +9,7 @@
 
 **[shrimp](https://en.wikipedia.org/wiki/Shrimp)** is a crustacean (a form of shellfish) with an elongated body and a primarily swimming mode of locomotion – typically belonging to the Caridea or Dendrobranchiata of the decapod order, although some crustaceans outside of this order are also referred to as "shrimp".
 
-- ⚡ Fun fact: I am allergic to shrimp.
+- ⚡ 
 <div align="center">
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
