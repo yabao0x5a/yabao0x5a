@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Shrimp" rel="noopener" target="_blank"><img width="400" src="https://github.com/yabao0x5a/yabao0x5a/blob/main/watch-shrimp.gif?raw=true" alt="shrimp"></a>
+  <a href="https://en.wikipedia.org/wiki/Shrimp" rel="noopener" target="_blank"><img width="200" src="https://github.com/yabao0x5a/yabao0x5a/blob/main/watch-shrimp.gif?raw=true" alt="shrimp"></a>
 </p>
 
 <h1 align="center">coding for fun</h1>
