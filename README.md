@@ -5,7 +5,7 @@
   <a href="https://en.wikipedia.org/wiki/Shrimp" rel="noopener" target="_blank"><img width="200" src="https://github.com/yabao0x5a/yabao0x5a/blob/main/watch-shrimp.gif?raw=true" alt="shrimp"></a>
 </p>
 
-<h1 align="center">coding for fun</h1>
+<h1 align="center">coding</h1>
 
 **[shrimp](https://en.wikipedia.org/wiki/Shrimp)** is a crustacean (a form of shellfish) with an elongated body and a primarily swimming mode of locomotion – typically belonging to the Caridea or Dendrobranchiata of the decapod order, although some crustaceans outside of this order are also referred to as "shrimp".
 
